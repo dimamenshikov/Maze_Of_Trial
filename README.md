@@ -3,7 +3,7 @@
 1. Название проекта: «Лабиринт испытаний»
 <img width="792" height="506" alt="image" src="https://github.com/user-attachments/assets/54489c6c-c534-4ef4-ac39-fa251897cd17" />
 
-2. Жанр: Third-Person Shooter
+2. Жанр: Third-Person
 3. Платформа: ПК
 4. Управление: WASD и мышь
 5. Цель уровня: Найти и вынести сокровище из лабиринта за отведённое время
