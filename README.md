@@ -1,5 +1,9 @@
 Лабиринт испытаний
 
+Игра: https://drive.google.com/file/d/1hjUpwQ3k8dR0KlPViqDV9sylnvRWEvLV/view?usp=drive_link
+
+https://github.com/user-attachments/assets/73a32c49-226f-4ce6-bbc7-e2a2aa53c62c
+
 1. Название проекта: «Лабиринт испытаний»
 <img width="792" height="506" alt="image" src="https://github.com/user-attachments/assets/54489c6c-c534-4ef4-ac39-fa251897cd17" />
 
@@ -33,5 +37,3 @@
 
 7. Турели: В центре лабиринта размещены вражеские турели, которые стреляют лазером по игроку, отнимая его здоровья, при обнаружении персонажа камерами. Игрок должен избегать зоны видимости камер, чтобы не быть убитым лазером
 <img width="792" height="506" alt="image" src="https://github.com/user-attachments/assets/0895e00e-6e17-4777-9444-a5625761688e" />
-
-Игра: https://drive.google.com/file/d/1hjUpwQ3k8dR0KlPViqDV9sylnvRWEvLV/view?usp=drive_link
